@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb04C7De4746F9f771C521a952d55c8B9B0Fac117",
+  "SCAN_LINK": "https://etherscan.io/address/0xb04c7de4746f9f771c521a952d55c8b9b0fac117",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Skies of Heroes",
+  "SYMBOL": "SKY",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/test573452135123",
+  "SHOW_BACKGROUND": true
+}
